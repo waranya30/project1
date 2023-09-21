@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="icon" type="id" />
+    <item name="firstLine" type="id" />
+    <item name="secondLine" type="id" />
+    <item name="my_recycler_view" type="id" />
+</resources>
